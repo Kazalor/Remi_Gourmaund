@@ -1,0 +1,9 @@
+The following link is from where the commands code outline originated
+ Reference: https://realpython.com/how-to-make-a-discord-bot-python/
+
+The following link is a reference to the site from where the flask/background code originated
+ https://replit.com/talk/learn/my-bot-goes-down-every-minute-and-doesn/11008/150912
+https://stackoverflow.com/questions/51025893/flask-at-first-run-do-not-use-the-development-server-in-a-production-environmen
+
+Reference to message splitting
+  https://levelup.gitconnected.com/how-to-gather-message-data-using-a-discord-bot-from-scratch-with-python-2fe239da3bcd
