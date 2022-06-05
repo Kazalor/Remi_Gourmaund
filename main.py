@@ -14,8 +14,13 @@ async def on_ready():
   
 # Commands should be written between the dotted lines
 #-----------------------
-  
 
+# Example commands
+# In discord enter the command prefix + function name
+  # Ex. -speak
+@bot.command()
+async def speak(ctx):
+  await ctx.channel.send("Hey Kiddo")
 
 
 #_______________________  
