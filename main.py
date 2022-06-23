@@ -18,7 +18,9 @@ async def on_ready():
 # Example commands
 # In discord enter the command prefix + function name
   # Ex. -speak
-@bot.command()
+# Help function is built in for this bot style, but individual messages such as
+  # command descriptions still need to be manually set as below
+@bot.command(help = 'Prints "Hey Kiddo" to the chat')
 async def speak(ctx):
   await ctx.channel.send("Hey Kiddo")
 
